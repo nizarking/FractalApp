@@ -1,0 +1,19 @@
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\MainWindow.g.cs
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\App.g.cs
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\MainWindow.baml
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\DrawingApp.Properties.Resources.resources
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\DrawingApp.csproj.GenerateResource.cache
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\nezar\source\repos\DrawingApp\bin\Debug\Fractal treeApp.exe
+C:\Users\nezar\source\repos\DrawingApp\bin\Debug\Fractal treeApp.pdb
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\DrawingApp.csproj.AssemblyReference.cache
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp_MarkupCompile.cache
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp_MarkupCompile.lref
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp.g.resources
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp.exe
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp.pdb
+C:\Users\nezar\source\repos\DrawingApp\bin\Debug\Fractal treeApp.exe.manifest
+C:\Users\nezar\source\repos\DrawingApp\bin\Debug\Fractal treeApp.application
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp.TrustInfo.xml
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp.exe.manifest
+C:\Users\nezar\source\repos\DrawingApp\obj\Debug\Fractal treeApp.application
